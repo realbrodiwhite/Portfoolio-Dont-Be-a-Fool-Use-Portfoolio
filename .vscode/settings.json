@@ -2,6 +2,25 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "cSpell.words": [
-    "Portfoolio"
+    "aashutoshrathi",
+    "workspaces",
+    "Portfoolio",
+    "yarn.lock",
+    "cSpell",
+    "axobject",
+    "assemblyscript",
+    "regexpu",
+    "bcoe",
+    "braintree",
+    "codewithdan",
+    "chokidar",
+    "discoveryjs",
+    "jridgewell",
+    "mrmime",
+    "optimise",
+    "pacote",
+    "Portfoolio",
+    "undici",
+    "yargs"
   ]
 }
