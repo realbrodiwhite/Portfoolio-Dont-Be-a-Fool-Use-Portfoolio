@@ -163,7 +163,7 @@
     "@schematics/angular": "17.0.0",
     "@simplewebauthn/typescript-types": "8.0.0",
     "@storybook/addon-essentials": "7.6.5",
-    "@storybook/angular": "7.6.5",
+    "@storybook/angular": "7.6.10",
     "@storybook/core-server": "7.6.10",
     "@types/big.js": "6.1.6",
     "@types/body-parser": "1.19.2",
