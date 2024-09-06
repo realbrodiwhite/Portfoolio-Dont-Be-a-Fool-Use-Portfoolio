@@ -91,7 +91,7 @@
     "alphavantage": "2.2.0",
     "big.js": "6.2.1",
     "body-parser": "1.20.1",
-    "bootstrap": "4.6.0",
+    "bootstrap": "5.0.0",
     "bull": "4.10.4",
     "cache-manager": "3.4.3",
     "cache-manager-redis-store": "2.0.0",
